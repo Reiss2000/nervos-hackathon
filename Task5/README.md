@@ -9,3 +9,7 @@
 ![sudt-balance](https://github.com/Reiss2000/nervos-hackathon/blob/main/Task5/sudt-balance.png?raw=true)
 
 4. Eth address: 0x1952bbcff36CEB73C52EB863978fbE484c08f55b
+
+Bonus - get SUDT Id:
+
+![bonus](https://github.com/Reiss2000/nervos-hackathon/blob/main/Task5/bonus.png?raw=true)
