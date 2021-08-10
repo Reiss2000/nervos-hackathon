@@ -5,6 +5,6 @@ Minting SUDT:
 
 Transaction link: https://explorer.nervos.org/aggron/transaction/0x76cd7ff58d80ff1864b119e273173cf3d77c3117318de36bb39333a632926805
 
-Deposit to layer2: https://github.com/Reiss2000/nervos-hackathon/blob/main/Task4/l2-deposit.png?raw=true
+Deposit to layer2: ![l2-deposit](https://github.com/Reiss2000/nervos-hackathon/blob/main/Task4/l2-deposit.png?raw=true)
 
 SUDT ID: 1131
