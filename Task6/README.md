@@ -1,7 +1,7 @@
 Generate deposit receiver address:
 
-![bonus](https://github.com/Reiss2000/nervos-hackathon/blob/main/Task5/bonus.png?raw=true)
+![generate-address](https://github.com/Reiss2000/nervos-hackathon/blob/main/Task6/deposit-receiver-address.png?raw=true)
 
-Deposit receiver address:
+Deposit receiver address: ckt1q3dz2p4mdrvp5ywu4kk5edl2uc4p03puvx07g7kgqdau3n3dmypkqnxzuefxyp9wdghglncj77k5wt6p59sx6kukyjlwh5s467qgp8m25yqqqqqsqqqqqvqqqqqfjqqqqr4l54fhp60f5xfaajt0lgqf96d8h4rppg0y0pynpug7wtlnxd0uu6gqqqqpqqqqqqcqqqqqxyqqqqx7asf60w8pqpte2sfcfn90fdfzxue7ff2g8sawe9wacnqat6jmygqngqqqqpxv9ejjvgz2u63w3l839aadguh5rgtqd4devf97a0fpt4uqsz0k5x2jh08lxm8tw0zjawrrj78mujzvpr64kq9rqgqqqqqqcq9934l8
 
 Ethereum address: 0x1952bbcff36CEB73C52EB863978fbE484c08f55b
